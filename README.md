@@ -1,4 +1,5 @@
 # ethercalc_theme_green
+Ethercalc skin green like a famous spreadsheet software
 
 Once ethercalc is installed (https://github.com/audreyt/ethercalc), overwrite your node_modules folder with the content of this folder to get your green theme running.
 
