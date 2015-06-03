@@ -1,0 +1,74 @@
+Licensing:
+===========
+
+All the licenses for the icon design is given below. Corrective design (sizing, coloring, file conversion, ...) is (c) 2015 - Kévin Sanouiller released under MIT License. See at the bottom. 
+Thanks to everyone releasing their work on opensource / MIT licenses !
+Kévin Sanouiller - Email: contact <at> sanouiller <dot> fr
+
+
+Keep a copy of this licence information with the content of this repository.
+
+Icon	Original_author	License	Source
+--------------------------------------------
+sc-aligncenter	Yannick	CC-BY-3.0	http://www.flaticon.com/free-icon/justified-text-_12126
+sc-alignleft	Icomoon	CC-BY-3.0	http://www.flaticon.com/free-icon/left-alignment-paragraph_23779
+sc-alignright	Icomoon	CC-BY-3.0	http://www.flaticon.com/free-icon/right-align-paragraph_23743
+sc-bordersoff	Kévin Sanouiller	MIT Licence
+sc-borderson	Kévin Sanouiller	MIT Licence
+sc-copy	Linh Pham	CC-BY-3.0	http://www.flaticon.com/free-icon/copy-black-interface-symbol-of-two-paper-sheets_54519
+sc-cut	Freepik	Flaticon Basic License	http://www.flaticon.com/free-icon/openned-scissors_17836
+sc-delete	Egor Rumyantsev	CC-BY-3.0	http://www.flaticon.com/free-icon/cancel-music_70460
+sc-deletecol	Kévin Sanouiller	MIT Licence
+sc-deleterow	Kévin Sanouiller	MIT Licence
+sc-filldown		Kévin Sanouiller	MIT Licence
+sc-fillright	Kévin Sanouiller	MIT Licence
+sc-formuladialog	Kévin Sanouiller	MIT Licence
+sc-hidecol		Kévin Sanouiller	MIT Licence
+sc-hiderow		Kévin Sanouiller	MIT Licence
+sc-insertcol	Kévin Sanouiller	MIT Licence
+sc-insertrow	Kévin Sanouiller	MIT Licence
+sc-linkdialog	Kévin Sanouiller	MIT Licence
+sc-lock	Freepik	Flaticon Basic Licence	http://www.flaticon.com/free-icon/locked-padlock_61457
+sc-merge	Kévin Sanouiller	MIT Licence
+sc-movefrom		Kévin Sanouiller	MIT Licence
+sc-movefromoff		Kévin Sanouiller	MIT Licence
+sc-moveinsert		Kévin Sanouiller	MIT Licence
+sc-moveinsertoff	Kévin Sanouiller	MIT Licence
+sc-movepaste		Kévin Sanouiller	MIT Licence
+sc-movepasteoff		Kévin Sanouiller	MIT Licence
+sc-multilinedialog	Kévin Sanouiller	MIT Licence
+sc-paste	Iconoon	CC-BY-3.0	http://www.flaticon.com/free-icon/clipboard-paste-option_24504
+sc-pasteformats	Freepik	Flaticon Basic Licence	http://www.flaticon.com/free-icon/paintbrush-tool-black-shape_16522
+sc-redo	 Freepik	Flaticon Basic Licence	http://www.flaticon.com/free-icon/redo-arrow_74474
+sc-sumdialog	Kévin Sanouiller	MIT Licence
+sc-swapcolors	Freepik	Flaticon Basic Licence	http://www.flaticon.com/free-icon/contrast-icon_61410
+sc-undo	Freepik	Flaticon Basic Licence	http://www.flaticon.com/free-icon/left-turn-arrow_1453
+sc-unlock	Freepik	Flaticon Basic License	http://www.flaticon.com/free-icon/unlocked_15629
+sc-unmerge	Kévin Sanouiller	MIT Licence
+
+Additionnaly, some icons were based on the two following icons:
+----------------------------------------------------------------
+Hide	Freepik	Flaticon Basic Licence	http://www.flaticon.com/free-icon/hide-interface-symbol_38488
+View	Freepik Flaticon Basic License	http://www.flaticon.com/free-icon/visible-opened-eye-interface-option_58976
+
+The MIT License (MIT)
+
+Copyright (c) 2015 Kévin Sanouiller
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

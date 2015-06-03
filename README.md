@@ -3,9 +3,7 @@ Ethercalc skin green like a famous spreadsheet software
 
 INSTALL:
 --------
-Find the theme that is compatible with you version of ethercalc. Currently only versions up to the 16th of March 2015 are supported.
-Patch the content available in this repository to your ethercalc folder. 
-
-FURTHER DEVELOPPEMENT:
---------------
-I am planing to update the theme on the current version of Ethercalc.
+1- Find the theme that is compatible with your version of ethercalc. 
+	a- For versions up to 16th of March 2015, go the folder 150316, 
+	b- For versions between 16th of March 2015 to 01st of June 2015m go to folder 150601
+2- Patch the content available in this repository to your ethercalc folder. 
